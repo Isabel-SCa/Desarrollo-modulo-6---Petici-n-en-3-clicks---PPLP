@@ -1,0 +1,9 @@
+1. Un ciudadano identifica una necesidad y crea una causa comunitaria en la plataforma.
+
+2. La causa queda registrada en la base de datos para ser visible públicamente.
+
+3. Otros ciudadanos ingresan y pueden apoyar la causa aportando comentarios opcionales.
+
+4. El sistema cuenta los apoyos y los asocia directamente a la causa original.
+
+5. El sistema genera un documento PDF formal con la petición y el registro total de apoyos.

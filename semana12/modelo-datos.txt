@@ -1,0 +1,9 @@
+Entidad Causa:
+Atributos: id, titulo, descripcion, fecha.
+Explicación: Sirve para almacenar los detalles principales de la necesidad o petición que la
+comunidad quiere visibilizar.
+
+Entidad Apoyo:
+Atributos: id, causa_id, nombre, fecha.
+Explicación: Sirve para registrar individualmente a cada persona que respalda una causa.
+El causa_id es la llave foránea que conecta este apoyo con su causa correspondiente.

@@ -1,0 +1,5 @@
+Evento: Nuevo apoyo registrado en una causa existente.
+Mensaje: "Se ha registrado un nuevo apoyo en una causa de la plataforma. Revisa el sistema para más
+detalles.".
+Información que no debe enviarse: Cédulas, teléfonos, direcciones, correos reales, comentarios con
+información sensible o datos personales que vulneren la privacidad de los usuarios.
